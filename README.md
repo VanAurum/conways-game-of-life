@@ -11,11 +11,11 @@ A robust solution to the classic coding challenge Conway's Game of Life
     
 ### Algorithm:
 
-1. initialize a random matrix.
-2. initialize a random matrix representing state T+1.
-3. iterate through each cell in initial matrix applying conway's rules to matrix T+1.
-4. set next matrix to initial matrix.
-5. repeat for all iterations of the game.    
+1. Initialize a random matrix.
+2. Initialize a random matrix representing state T+1.
+3. Iterate through each cell in initial matrix applying conway's rules to matrix T+1.
+4. Set next matrix to initial matrix.
+5. Repeat for all iterations of the game.    
 
 ### Initialized random game
 ```
